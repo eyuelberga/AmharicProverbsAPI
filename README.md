@@ -1,4 +1,10 @@
-Amharic Proverb API is a REST API for accessing a growing list of Amharic proverbs collected from various sources. You can use the API to fetch random Amharic proverbs and also filter proverbs by word.
+<p align="center">
+  <a href="https://github.com/eyuelberga/AmharicProverbsAPI">
+    <img src="https://github.com/eyuelberga/AmharicProverbsAPI/blob/main/banner.png?raw=true" alt="Amharic Proverbs API logo" width="300" />
+  </a>
+</p>
+
+Amharic Proverbs API is a REST API for accessing a growing list of Amharic proverbs collected from various sources. You can use the API to fetch random Amharic proverbs and also filter proverbs by word.
 
 Check out the [Swagger API Documentation]() for the full list of available endpoints.
 
